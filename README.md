@@ -6,19 +6,6 @@ I design and build secure, scalable identity systems that enable organizations t
 
 ---
 
-## 💼 Current Experience
-
-**Solutions Architect**  
-St. Jude Children's Research Hospital (ALSAC) · Contract  
-📍 Remote | May 2025 – Present
-
-- Leading enterprise IAM and donor-facing technology solutions
-- Acting as primary ITS Solutions Architect & Technical Business Analyst
-- Designing scalable identity systems across complex environments
-- Bridging business requirements with secure technical implementations
-
----
-
 ## 🛠 Core Expertise
 
 - Identity & Access Management (IAM)
