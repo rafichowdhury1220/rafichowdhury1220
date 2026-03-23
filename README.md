@@ -55,7 +55,7 @@ I design and build secure, scalable identity systems that enable organizations t
 
 ## 🌍 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rafichowdhury/
+- 💼 gmail: rafi1220@gmail.com
 - 📩 Open to IAM / Security collaborations
 
 ---
